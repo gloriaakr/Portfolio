@@ -130,7 +130,7 @@ export default function About() {
               transition: { duration: 1 }
             }}
           >
-            Sometimes you gotta <span className="font-bold text-pink-300">run</span> before <span className="font-bold text-purple-300">walk</span>. — Tony Stark.
+            Sometimes you got to <span className="font-bold text-pink-300">run</span> before you <span className="font-bold text-purple-300">walk</span>. — Tony Stark.
           </motion.p>
         </div>
         
